@@ -1,0 +1,130 @@
+body{
+	background-image:url("images/orc.jpg");
+	background-repeat:none;
+}
+
+h2{
+	text-align:center;
+	color:white;
+	font-size:50px;
+	font-family:monospace;
+	padding-top:20px;
+}
+
+p{
+	text-align:center;
+	color:white;
+	font-size:30px;
+	font-family:monospace;
+	padding-left:200px;
+	padding-right:200px;
+	padding-bottom:20px;
+}
+
+.login{
+	background-image:url("images/orange.jpg");
+	background-repeat:none;
+	text-align:center;
+	width:70%;
+	margin:auto;
+}
+
+a{
+	text-decoration:none;
+	color:green;
+}
+
+button{
+	padding:10px;
+	font-size:20px;
+	font-family:monospace;
+	border-radius:30px;
+}
+
+.button{
+	padding-bottom:20px;
+	
+}
+
+input{
+	text-align:center;
+	font-size:15px;
+	font-family:monospace;
+	border-radius:30px;
+}
+
+label{
+	text-align:center;
+	color:white;
+	font-size:20px;
+	font-family:monospace;
+}
+
+form button{
+	margin-bottom:20px;
+	margin-top:20px;
+}
+
+.new{
+	font-size:15px;
+}
+
+.ref{
+	font-size:15px;
+	padding:0px;
+}
+
+button:hover{
+	color:orange;
+}
+
+.list{
+	text-align:center;
+	width:70%;
+	margin:auto;
+	color:white;
+}
+
+ul{
+	display:flex;
+	justify-content:space-evenly;
+}
+
+li{
+	list-style:none;
+	color:white;
+	font-size:20px;
+	font-family:monospace;
+}
+
+footer{
+	margin-top:100px;
+	color:white;  
+	text-align:center;  
+}
+
+img{
+	width:200px;
+	height:200px;
+	margin:10px;
+}
+
+.about{
+	width:60%;
+	margin:auto;
+}
+
+h4{
+	margin:10px;
+	text-align:center;
+	color:white;
+	font-size:30px;
+	font-family:monospace;
+}
+p3{
+	padding:20px;
+	text-align:center;
+	color:white;
+	font-size:20px;
+	font-family:monospace;
+}
